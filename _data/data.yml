@@ -13,36 +13,36 @@ sidebar:
 
     # Sidebar links
     email: iserhan@outlook.fr
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    phone: +33755447788
+    timezone: Europe/Paris Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: blog.iserhan.com #do not add http://
+    linkedin: iserhan
+    xing: serhanus7
+    github: serhanus7
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 3079756/serhan
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Langues
       info:
-        - idiom: English
+        - idiom: Arabe
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Français
+          level: Professionnel
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Anglais
+          level: Professionnel
 
     interests:
-      title: Interests
+      title: Centre d'intéret
       info:
         - item: Climbing
           link:
